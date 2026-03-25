@@ -617,6 +617,7 @@ h4 {
 .offer-price-block {
     text-align: center;
     min-width: 210px;
+    font-family: 'Cinzel', serif;
 }
 
 .offer-highlight-banner {
@@ -652,7 +653,7 @@ h4 {
 }
 
 .offer-price-green {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Cinzel', serif;
     font-size: 1.8rem;
     font-weight: 800;
     color: #4ade80;
