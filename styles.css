@@ -619,29 +619,57 @@ h4 {
     min-width: 210px;
 }
 
+.offer-highlight-banner {
+    background: var(--purple-l);
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 6px 16px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+
 .offer-from {
-    font-size: 0.9rem;
-    color: var(--muted);
-    text-decoration: line-through;
+    font-size: 1.1rem;
+    color: var(--white);
     margin-bottom: 4px;
 }
 
-.offer-price {
-    font-family: 'Cinzel', serif;
-    font-size: 3rem;
+.strikethrough {
+    text-decoration: line-through;
+    color: #ef4444;
+    font-weight: 600;
+}
+
+.offer-green-italic {
+    font-size: 1.1rem;
+    color: #4ade80;
+    font-style: italic;
     font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.offer-price-green {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #4ade80;
     line-height: 1;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
 }
 
-.offer-price span {
-    font-size: 1.5rem;
+.offer-price-green span {
+    font-size: 3.5rem;
+    letter-spacing: -1px;
 }
 
-.offer-parcels {
-    font-size: 0.82rem;
-    color: var(--muted);
+.offer-cash {
+    font-size: 0.95rem;
+    color: var(--white);
     margin-bottom: 24px;
+    font-weight: 600;
 }
 
 .offer-secure {
