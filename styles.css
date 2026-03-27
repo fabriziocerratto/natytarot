@@ -832,29 +832,7 @@ h4 {
 .footer-sub {
     color: var(--muted);
     font-size: 0.88rem;
-    margin-bottom: 24px;
-}
-
-.footer-info {
-    margin: 32px 0;
-    font-size: 0.85rem;
-    color: var(--muted);
-    line-height: 1.7;
-}
-
-.footer-info p {
-    margin-bottom: 16px;
-}
-
-.footer-whatsapp {
-    margin: 0 auto 32px;
-}
-
-.footer-whatsapp p {
-    font-size: 0.95rem;
-    color: var(--gold-l);
-    margin-bottom: 12px;
-    font-style: italic;
+    margin-bottom: 20px;
 }
 
 .footer-legal {
